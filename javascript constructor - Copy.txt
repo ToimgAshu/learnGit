@@ -1,0 +1,15 @@
+
+Constructor-------
+
+function Person(name1,age1){
+this.name = name1;
+this.age = age1;
+}
+// make function object (related person constructor object )
+var brand = new Person ('Brand', 30)
+
+Prototype--------- add new menthod in constructor
+
+class.prototype.method name
+
+
