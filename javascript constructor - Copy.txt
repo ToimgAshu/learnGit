@@ -1,6 +1,18 @@
+<<<<<<< .mine
 @nd tie push code pleae check
+=======
+Ashu Tyagi Add new task 
+>>>>>>> .theirs
+
+<<<<<<< .mine
 
 
+
+=======
+2nd 
+ task 
+
+>>>>>>> .theirs
 Constructor-------
 
 function Person(name1,age1){
